@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #edf2f7 !important;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+.noto-sans-tc-uniquifier {
+  font-family: "Noto Sans TC", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
